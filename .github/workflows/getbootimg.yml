@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/21.4.13/miui_ALIOTH_21.4.13_6e7102ba04_11.0.zip
+  ROM_URL: http://download.beta.xchanger.cn/testing%2Fota%2Fihu%2F1226%E6%89%93%E5%8C%85No3_7ce41e13c22f0d5ac4d189630674d686.zip
   TZ: Asia/Shanghai
 
 jobs:
